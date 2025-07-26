@@ -18,9 +18,6 @@ python pixel_cipher.py
 ## Example Walkthrough
 The script will guide you through an interactive menu.
 
-### Encrypting an Image
-Bash
-
 $ python pixel_cipher.py
 Select an operation to perform:
 1. Encrypt Image
@@ -31,6 +28,8 @@ Enter the path for the output image: encrypted_photo.png
 Enter the secret integer key: 12345
 Processing 'my_photo.png' with pixel scramble...
 Successfully saved to 'encrypted_photo.png'
+
+
 ### Decrypting an Image
 To decrypt, run the script again, choose option 2, and use the exact same key.
 
