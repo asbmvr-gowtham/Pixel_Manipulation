@@ -1,12 +1,23 @@
 ## How to Run
 Follow these steps to get the script running on your local machine.
 
+
+
+
+
+
 Install Dependencies
 
 Install the required Pillow library using pip:
 
 Bash
+
 """pip install Pillow"""
+
+
+
+
+
 
 
 Run the Script
@@ -14,7 +25,12 @@ Run the Script
 Execute the script from your terminal. (Assuming your Python file is named pixel_cipher.py):
 
 Bash
+
 """python pixel_cipher.py"""
+
+
+
+
 
 
 
@@ -40,6 +56,12 @@ Enter the secret integer key: 12345
 Processing 'my_photo.png' with pixel scramble...
 
 Successfully saved to 'encrypted_photo.png' """
+
+
+
+
+
+
 
 
 #### Decrypting an Image
