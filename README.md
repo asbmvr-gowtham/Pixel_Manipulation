@@ -1,5 +1,6 @@
 1. Install Dependencies
 
+
 Install the required Pillow library using pip:
 
 Bash
